@@ -8,7 +8,7 @@ const args = argparse(Deno.args, {
   ],
 });
 
-const commandName = `cowasm-term`;
+const commandName = `cowasm_term`;
 
 const usageMessage = `
 Usage: ${commandName} [OPTIONS] 
