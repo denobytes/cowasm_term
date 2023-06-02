@@ -27,7 +27,7 @@ deno run --allow-read --allow-write --allow-env'https://deno.land/x/cowasm_term/
 Requires [deno](https://deno.land/manual@v1.33.2/getting_started/installation)
 
 ```
-deno install -n cowasm-term --allow-read --allow-write https://deno.land/x/cowasm_term/cli.ts
+deno install -n cowasm_term --allow-read --allow-write https://deno.land/x/cowasm_term/cli.ts
 ```
 
 ## license
