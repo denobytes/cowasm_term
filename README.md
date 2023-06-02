@@ -1,9 +1,9 @@
 
-[![Latest version](https://deno.land/badge/cowasm-term/version)](https://deno.land/x/cowasm-term)
+[![Latest version](https://deno.land/badge/cowasm_term/version)](https://deno.land/x/cowasm_term)
 
-# cowasm-term
+# cowasm_term
 
-**cowasm-term** is a cli tool to run the cowasm terminal
+**ccowasm_term** is a cli tool to run the cowasm terminal
 
 Based on https://cowasm.org/
 
@@ -12,13 +12,13 @@ Based on https://cowasm.org/
 to see help:
 
 ```sh
-deno run --allow-read --allow-write --allow-env 'https://deno.land/x/cowasm-term/cli.ts' --help
+deno run --allow-read --allow-write --allow-env 'https://deno.land/x/cowasm_term/cli.ts' --help
 ```
 
 example:
 
 ```
-deno run --allow-read --allow-write --allow-env'https://deno.land/x/cowasm-term/cli.ts'
+deno run --allow-read --allow-write --allow-env'https://deno.land/x/cowasm_term/cli.ts'
 ...
 ```
 
@@ -27,7 +27,7 @@ deno run --allow-read --allow-write --allow-env'https://deno.land/x/cowasm-term/
 Requires [deno](https://deno.land/manual@v1.33.2/getting_started/installation)
 
 ```
-deno install -n cowasm-term --allow-read --allow-write https://deno.land/x/cowasm-term/cli.ts
+deno install -n cowasm-term --allow-read --allow-write https://deno.land/x/cowasm_term/cli.ts
 ```
 
 ## license
